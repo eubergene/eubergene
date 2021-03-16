@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eubergene
-- 👀 I’m interested in chatbots and deep learnign
+- 👀 I’m interested in chatbots and deep learning
 - 🌱 I’m currently learning a little bit of everything
 - 💞️ I’m looking to collaborate on chatbot projects
 - 📫 How to reach me eugene@cybergine.com
